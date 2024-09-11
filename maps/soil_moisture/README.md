@@ -1,0 +1,1 @@
+Utilizing data from the [Soil Moisture Active Passive (SMAP) L-Band radiometer](https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL3SMP_E_005), these maps show the change in the fraction of surface soil moisture from 2015 to 2023 during July. Data downloaded using Google Earth Engine and maps created with QGIS.
